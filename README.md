@@ -1,2 +1,3 @@
-# techbook-05-node-js-diary-sample
-Node.js学習日記のサンプルコードです
+# Node.js中級者を目指す
+
+Node.js中級者を目指すのサンプルコードです
