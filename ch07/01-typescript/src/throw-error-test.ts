@@ -1,5 +1,5 @@
-// import 'source-map-support/register'; // OR require('source-map-support').install();
-require('source-map-support').install();
+import 'source-map-support/register';
+// または require('source-map-support').install();
 import http = require('http');
 
 const server = http.createServer();
