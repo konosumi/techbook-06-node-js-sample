@@ -1,4 +1,5 @@
 import http = require('http');
+// import http from 'http';
 
 const server = http.createServer();
 server.on('request',function(_req, res) {
