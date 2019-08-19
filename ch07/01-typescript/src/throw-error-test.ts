@@ -1,3 +1,5 @@
+// import 'source-map-support/register'; // OR require('source-map-support').install();
+require('source-map-support').install();
 import http = require('http');
 
 const server = http.createServer();
@@ -6,5 +8,7 @@ server.on('request',function(_req, res) {
     res.write('Hello world\n');
     res.end();
 })
+
+throw new Error("test");
 
 server.listen(8080);
