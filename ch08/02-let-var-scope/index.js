@@ -10,5 +10,6 @@ console.log('var x = ', x);
 if (true) {
   let y = 1;
 }
+
 console.log('let y = ', y);
 // ReferenceError: y is not defined
