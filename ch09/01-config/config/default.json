@@ -1,0 +1,6 @@
+{
+  "test": {
+    "message1": "デフォルト設定です",
+    "message2": "configです"
+  }
+}
