@@ -1,6 +1,6 @@
 {
   "test": {
-    "message1": "デフォルト設定です",
-    "message2": "configです"
+    "message1": "デフォルトconfigが使われました",
+    "message2": "デフォルトconfigが使われました"
   }
 }
