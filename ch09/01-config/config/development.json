@@ -1,5 +1,5 @@
 {
   "test": {
-    "message1": "開発configが使われました"
+    "message1": "開発configが読み込まれました"
   }
 }

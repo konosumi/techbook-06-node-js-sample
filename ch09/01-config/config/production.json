@@ -1,5 +1,5 @@
 {
   "test": {
-    "message1": "本番configの設定が使われました"
+    "message1": "本番configが読み込まれました"
   }
 }
