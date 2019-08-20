@@ -1,6 +1,4 @@
 const config = require('config');
 
-console.log(config.get('test.message1'));
-console.log(config.get('test.message2'));
-
-
+console.log('test.message1', config.get('test.message1'));
+console.log('test.message2', config.get('test.message2'));
