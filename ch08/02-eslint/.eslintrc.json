@@ -4,7 +4,11 @@
         "es6": true,
         "node": true
     },
-    "extends": "eslint:all",
+
+    "extends": ["semistandard", "standard-jsx"],
+    //"extends": "eslint:all",
+    // "extends": "eslint:recommended",
+
     "globals": {
         "Atomics": "readonly",
         "SharedArrayBuffer": "readonly"
