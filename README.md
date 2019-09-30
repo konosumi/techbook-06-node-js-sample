@@ -29,3 +29,7 @@ $ source ~/.bash_profile
 $ node --version
 v12.6.0
 ```
+
+## お知らせ
+
+* リンク集（links.md）を追加しました。
